@@ -8,3 +8,7 @@ Intellij IDEA
 
 # Execution
 To execute our stream reasoning model: sbt "run --program src/test/resources/program.lars"
+
+- Sentence 1: This is the first point.
+- Sentence 2: Here's the second point.
+- Sentence 3: Finally, the third point.
