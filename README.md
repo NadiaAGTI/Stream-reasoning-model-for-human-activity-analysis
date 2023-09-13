@@ -7,6 +7,7 @@ We apply this framework in a new domain , the human activity analysis for the de
 - Intellij IDEA
 
 # Execution
-- Copy the rules in program.LARS file, and then
+- Download and Build the project Ticker 
+- Copy the rules of the logic program in program.LARS file, and then
 - To execute our stream reasoning model: sbt "run --program src/test/resources/program.lars"
 
